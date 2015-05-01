@@ -48,7 +48,7 @@ public class FullscreenActivity extends Activity {
 
     // ada perubahan ga?
     // iya ada bro
-
+    // coba ditambah
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
