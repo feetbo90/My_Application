@@ -47,6 +47,7 @@ public class FullscreenActivity extends Activity {
     private SystemUiHider mSystemUiHider;
 
     // ada perubahan ga?
+    // iya ada bro
 
 
     @Override
